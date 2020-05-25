@@ -4,7 +4,7 @@ description: Moles Papa's Works and Creat Challenge.
 cover: assets/images/radhakrishna.jpg
 logo: assets/images/logo.png
 favicon: assets/images/favicon.png
-baseurl: "/blog/" # the subpath of your site, e.g. /blog/ or / for root
+baseurl: "" # the subpath of your site, e.g. /blog/ or / for root
 url: "http://pwjun23.github.io/" # the base hostname & protocol for your site
 
 pagination:
